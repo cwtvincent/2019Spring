@@ -20,4 +20,6 @@ Building a proxy server that reads a http request from a browser, and forwards t
 Building a proxy server that reads a http request from a browser, forwards that request to a web server, reads the reply from the web server, and forwards the reply back to the browser.
 
 ## CS 684102 - Software Test & Qual Assurance
-
+### recommendation server of restaurant recommendation website
+Building a server that reads a request from GUI and select the data from the database according to the request.
+Finally, forward the data back to the browser.
