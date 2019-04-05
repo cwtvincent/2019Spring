@@ -5,8 +5,6 @@ The projects I have done at NJIT
 
 ## CS 610102 - Data Structure & Algorithm(unfinished)
 
-## CS 632002 - Adv Database Sys Design(unfinished)
-
 ## CS 656002 - Intrnet & Higher Layer Protocol(unfinished)
 
 ### Project1 - DNS Server
