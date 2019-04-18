@@ -5,7 +5,7 @@ The projects I have done at NJIT
 
 ## CS 610102 - Data Structure & Algorithm(unfinished)
 ### Performance of Skip Lists
-Define an interface for Skip List and write a program to test the performance of this function(findElement, insertElement, removeElement, closestKeyAfter)
+Define an interface for Ordered Dictionary ADT with the improvement of Skip List and write a program to test the performance of this function performance(findElement, insertElement, removeElement, closestKeyAfter).
 
 ## CS 656002 - Intrnet & Higher Layer Protocol(unfinished)
 
