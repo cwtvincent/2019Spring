@@ -1,5 +1,5 @@
 # 2019 Spring
-The projects I have done at NJIT
+The projects I have done by my own at NJIT
 
 ## CS 634 - Data Mining(unfinished)
 
